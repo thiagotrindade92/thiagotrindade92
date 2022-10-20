@@ -9,6 +9,12 @@ You can click the Preview link to take a look at your changes.
 Estudante de tecnologia estou aprendendo as princípais linguagens de promgramação, além de DEV sou jogador de futebol nas horas vagas.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-trindade-351892208/">Linkedin</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/thiago.trindade.902/">Facebook</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/thiago.trindade.902/">Instagram</a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <br>
 
 ## 🚀 Tecnologias
@@ -39,16 +45,10 @@ Minhas principais tecnologias:
 
 - Desenvolvedor Backend - TeamCODE
 
-## 📲 Contatos & Social
+## 📲 Contatos
 
 - E-mail: thiagotrindade628@gmail.com
 - Whatsapp ou ligação: (91)992755537
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiago-trindade-351892208/">Linkedin</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/thiago.trindade.902/">Facebook</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Instagram</a>&nbsp;&nbsp;&nbsp;
-</p>
 
 ---
 
