@@ -52,4 +52,4 @@ Minhas principais tecnologias:
 
 ---
 
-Feito com ♥ by ThiagoTrindade :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by ThiagoTrindade :wave:
