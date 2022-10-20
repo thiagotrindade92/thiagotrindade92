@@ -52,4 +52,4 @@ Minhas principais tecnologias:
 
 ---
 
-Feito com ♥ by ThiagoTrindade :wave:
+<p align="center">Feito com ♥ by ThiagoTrindade :wave:</p>
