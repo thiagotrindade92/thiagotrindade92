@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Olá, eu sou Thiago Trindade </h1>
 
 <p align="center">
-Estudante de tecnologia estou aprendendo as princípais linguagens de promgramação, além de DEV sou jogador de futebol nas horas vagas.
+Estudante de tecnologia estou aprendendo as princípais linguagens de promgramação, além de DEV sou jogador de futebol e E-sport nas horas vagas.
 </p>
 
 <p align="center">
