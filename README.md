@@ -41,7 +41,7 @@ Minhas principais tecnologias:
 
 ## 💻 Projetos
 
-<p>Aqui uns projetos que me agregaram bastante conhecimento, listei os que acho importante.</p>
+<p>Projetos que me agregaram bastante conhecimento, listei os que acho importante.</p>
 
 - Grego Menu - TeamCODE
 - Thiago Trindade - Meu portifólio projeto em andamento.
