@@ -41,9 +41,12 @@ Minhas principais tecnologias:
 
 ## 💻 Projetos
 
-<p> Participei de apenas um projeto com amigos que fui desenvolvedor back-end por um mês.</p>
+<p>Aqui uns projetos que me agregaram bastante conhecimento, listei os que acho importante.</p>
 
-- Desenvolvedor Backend - TeamCODE
+- Grego Menu - TeamCODE
+- Thiago Trindade - Meu portifólio projeto em andamento.
+- NLW Esport - Projeto que fiz junto a Rockseat
+- WebApp Estoque - projeto desenvolvido em PHP Laravel que fiz junto com o livro PHP Artesão da Casa do Codigo.
 
 ## 📲 Contatos
 
@@ -52,4 +55,4 @@ Minhas principais tecnologias:
 
 ---
 
-<p align="center">Feito com ♥ by ThiagoTrindade :wave:</p>
+<p align="center">by ThiagoTrindade :wave:</p>
