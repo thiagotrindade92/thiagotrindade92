@@ -4,12 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">
-  <p align="center">Hi, I'm Trindade</p>
+  <p>Hi, I'm Trindade</p>
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
 </h1>
 
 <p align="center">
-Estudante de tecnologia, além de Estudante DEV sou gosto de jogar futebol e E-sport nas horas vagas.
+Estudante de tecnologia, eu gosto de jogar futebol e E-sport nas horas vagas.
 <br>
 I'm estudent the tecnology, I like play football and E-sport in the free time.
 </p>
