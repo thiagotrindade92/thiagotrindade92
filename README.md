@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">
-  <p>Hi, I'm Trindade</p>
+  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F522&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil+%F0%9F%98%84;Dev+j%C3%BAnior+em+fullstack++%F0%9F%9A%80;Estudante+de+tecnologia+%F0%9F%9B%B8" alt="Typing SVG" /></a></p>
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
 </h1>
 
@@ -25,9 +25,9 @@ I'm estudent the tecnology, I like play football and E-sport in the free time.
 
 <br>
 
-## 🚀 Tecnologias Back e Front
+## 🚀 Tecnologias
 
-<div>
+<div align="center" style="display: inline_block">
   
  [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -47,6 +47,9 @@ I'm estudent the tecnology, I like play football and E-sport in the free time.
  [![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]()
  [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]()
  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
+  
+
+</div>
   
 </div>
 
