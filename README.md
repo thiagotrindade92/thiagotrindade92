@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 <p align="center">
-Estudante de tecnologia, eu gosto de jogar futebol e E-sport nas horas vagas.
+Estudante de tecnologia, gosto de jogar futebol e E-sport nas horas vagas.
 <br>
 I'm estudent the tecnology, I like play football and E-sport in the free time.
 </p>
