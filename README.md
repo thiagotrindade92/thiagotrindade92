@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">
-  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F522&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil+%F0%9F%98%84;Dev+j%C3%BAnior+em+fullstack++%F0%9F%9A%80;Estudante+de+tecnologia+%F0%9F%9B%B8" alt="Typing SVG" /></a></p>
+  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=287388&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil+%F0%9F%96%96%F0%9F%8F%BB%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80;Hello%2C+welcome+to+my+profile+%F0%9F%96%96%F0%9F%8F%BB%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80;Amante+e+Estudante+de+tencologia%F0%9F%A4%96;Technology+lover+and+student++%F0%9F%A4%96" alt="Typing SVG" /></a></p>
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
 </h1>
 
